@@ -1,0 +1,33 @@
+﻿$data = '{
+     "button":[
+
+            {"name":"精品推荐","sub_button":
+
+                            [
+
+                                {"type":"view","name":"HTC One(M8)", "url":"http://mp.weixin.qq.com/s?__biz=MjM5ODYzMjg0MA==&mid=200371771&idx=1&sn=20b44f882a7dc39ec725d8799523eb9e#rd"},
+                                {"type":"view","name":"HTC Desire 816 ","url":"http://mp.weixin.qq.com/s?__biz=MjM5ODYzMjg0MA==&mid=200246939&idx=1&sn=39997d0589f6f547dfc383a387b25929#rd"},
+                                {"type":"view","name":"HTC One 时尚版","url":"http://mp.weixin.qq.com/s?__biz=MjM5ODYzMjg0MA==&mid=200371771&idx=1&sn=20b44f882a7dc39ec725d8799523eb9e#rd"},
+                                {"type":"click","name":"五月天", "key":"htc_wyt"}
+
+                            ]}，
+
+         {"name":"精彩活动","sub_button":[
+            {type":"view","name":"百万惊艳","url":"http://app76.vliang.com/p_home/"}
+         ]},
+
+         {"name":"联系我们","sub_button":
+
+                            [
+                                {"type":"view","name":"销售网点", "url":"http://mp.weixin.qq.com/s?__biz=MjM5ODYzMjg0MA==&mid=200371771&idx=1&sn=20b44f882a7dc39ec725d8799523eb9e#rd"},
+                                {"type":"click","name":"联系我们","key":"keep_con"}
+                            ]}
+
+ ]
+
+ }';
+
+
+
+
+http://detail.tmall.com/item.htm?id=40774919405
